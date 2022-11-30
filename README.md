@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Statistics
+
+![Codewars](https://github.r2v.ch/codewars?user=Kabachel&stroke=%23BB432C)
 <!--
 **Kabachel/Kabachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
